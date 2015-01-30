@@ -47,6 +47,15 @@ Lo schermo del Nexus 9 è bello. Display retina, nitidissimo, è una gioia per g
 
 Non aspettatevi di fare gli scatti che fate con una reflex, ma neanche quelli che fareste con un telefono. La fotocamera del Nexus 9 è la **classica fotocamera da tablet**: c'è, funziona, niente di più. La risoluzione è scadente e in condizioni di luce scarsa diventa inutilizzabile.
 
+Qualche scatto con il Nexus:
+
+![foto da nexus](/images/nexus/nex1.jpg "foto da nexus")
+*Le foto da vicino non sono male*
+
+![foto da nexus](/images/nexus/nex2.jpg "foto da nexus")
+*Qui il bilanciamento bianco non ha funzionato per niente*
+
+
 ###Speakers
 
 Nota di merito per il Nexus 9: finalmente gli speakers frontali su un tablet. Giocare a Heartstone con il suono stereo è molto più coinvolgente. I suoni che arrivano dai lati arrivano effettivamente dai lati con un volume alto e cristallino. Bellissimo.
