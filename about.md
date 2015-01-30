@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Siamo una web agency di Trento appassionati di design e tecnlogia. Lavoriamo a siti web, applicazioni e applicazioni desktop. Questo blog raccoglie opinioni e gadget che abbiamo analizzato.
 
-### More Information
+Se interessato a lavorare con noi?
 
-A place to include any other types of information that you'd like to include about yourself. 
+### Contattaci
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[hello@b3lab.it](mailto:hello@b3lab.it)
