@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble: 
   email: hello@b3lab.it
-  facebook: https://www.facebook.com/B3Lab
+  facebook: B3Lab
   flickr: 
   github: 
-  instagram: http://instagram.com/b3lab
+  instagram: b3lab
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: b3labagency
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
