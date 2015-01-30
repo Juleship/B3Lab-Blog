@@ -23,9 +23,9 @@ Negli ultimi modelli di Nexus il punto uno è stato decisamente perso di vista. 
 
 Il competitor del Nexus è ovviamente l'**iPad**: le dimensioni e il prezzo sono simili e ci si aspetta delle prestazioni e caratteristiche paragonabili al tablet di casa Apple. Rompo il ghiaccio e dico subito che non è così: il Nexus 9 sotto molti aspetti cede il fianco a debolezze che confrontate con iPad fanno rimpiangere di aver speso 400€ per il Nexus 9.
 
-###Design
-
 ![Un bel tablet](/images/nexus/bello.jpg "Bello")
+
+###Design
 
 Il Nexus 9 è *molto bello*. Il tablet, prodotto da HTC per Google, denota quella cura che solo HTC riesce a raggiungere nel mondo Android. Il retro di plastica bianca opaca è molto piacevole al tatto e tutto attorno corre un bordo di alluminio spazzolato. Unica pecca la fotocamera estrusa: considerato che parliamo di un tablet (che quindi non ha dimensioni contenutissime) mi sarei aspettato una fotocamera aderente al corpo del tablet.
 
@@ -33,9 +33,9 @@ Il Nexus 9 è *molto bello*. Il tablet, prodotto da HTC per Google, denota quell
 
 Il peso è sorprendetemente contenuto e usandolo in treno per un'ora non ho mai avuto la voglia di posarlo o di avere una superficie di lavoro più comoda. Unica pecca: avrei voluto la tastiera che si sdoppia ai lati come su iPad perchè digitare su uno schermo così grande non è pratico, purtroppo Android non ha questa funzione, magari si può installare una tastiera custom ma sarebbe stato bello averla di sistema.
 
-**Piccolo appunto**: quando il tablet è spento è *impossibile* capire qual è la parte superiore. Fortunatamente l'ultima versione di Android ha introdotto il risveglio del device con due colpetti sullo schermo. Nonostante questo però spesso non riesco a trovare i tasti del volume perchè l'ho preso in mano rovescio.
+**Piccolo appunto**: quando il tablet è spento è *difficilissimo* capire qual è la parte superiore. Fortunatamente l'ultima versione di Android ha introdotto il risveglio del device con due colpetti sullo schermo. Nonostante questo però spesso non riesco a trovare i tasti del volume perchè l'ho preso in mano rovescio.
 
-**Piccolo appunto 2**: Il connettore per il carica batterie è al rovescio rispetto al resto del mondo. Mi rendo conto che non è un grosso problema ma resta pur sempre un tablet da 400€. Costava molto farlo dritto come tutti gli altri? Frustrante.
+**Piccolo appunto 2**: Il connettore per il carica batterie è al contrario rispetto al resto del mondo Android. Mi rendo conto che non è un grosso problema ma resta pur sempre un tablet da 400€. Costava molto farlo dritto come tutti gli altri? Frustrante.
 
 ###Display
 
@@ -53,8 +53,6 @@ Nota di merito per il Nexus 9: finalmente gli speakers frontali su un tablet. Gi
 
 > Gli speaker frontali: perchè non sono standard su tutti i tablet?
 
-Apple se stai leggendo: metti le casse dell'iPad di fronte e non sul retro.
-
 ###Performance
 
 Ho letto di molte recensioni che lamentavano performance scadenti del Nexus 9, probabilmente causate dal software. A qualche mese di distanza dal rilascio questi problemi sembrano risolti e non ho mai percepito lentezza usandolo. Considerato che è una macchina con un processore enorme mi sarei stupito del contrario. Ho provato a testare un po' le prestazioni al limite con il videogioco di Batman: Arkham Origins in 3D e mi è sembrato che il tablet rispondesse bene.
@@ -67,13 +65,11 @@ Una cosa che manca totalmente in Android L è l'ottimizzazione per tablet. L'esp
 
 > Ottimizzazione per tablet inesistente: è come usare uno smartphone
 
-Una nota di merito di Android L è la gestione multi-utente: è molto comoda considerato che in ufficio siamo in tre. Ognuno può avere le proprie app, email, dettagli personali separate dal resto. iPad, se ci sei, batti un colpo. Su questo Android è superiore.
+Una cosa che mi piace molto in Android L è la gestione multi-utente: è molto comoda considerato che in ufficio siamo in tre. Ognuno può avere le proprie app, email, dettagli personali separate dal resto.
 
 > Avere più utenti su un tablet solo è molto comodo
 
 Il Nexus 9 è uno dei primi tablet Android ad avere uno schermo 4:3 invece che 16:9, questo significa che lo schermo è più quadrato. Mi sembra un'ottima scelta di design ma molte app non sono ancora pronte per questa proporzione dello schermo. **Un peccato**.
-
-Non tutte le app vengono sviluppate da subito anche per Android ma se quello che ti interessa è un tablet completamente compatibile con la suite di Google Drive il Nexus 9 è lo strumento perfetto in mobilità.
 
 **Nota**: quando il tablet va in standby da solo dopo un periodo di inutilizzo ha un momento in cui la luminosità va al massimo e poi si spegne. È molto brutto da vedere e, ancora, su un tablet da 400€ è triste.
 
