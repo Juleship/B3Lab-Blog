@@ -11,6 +11,8 @@ Tempo permettendo terrò un diario della mia esperienza nerd con tutti gli aggeg
 
 ##Nexus 9: la recensione
 
+![Cover](/images/nexus/cover.jpg "Cover")
+
 Il Nexus 9 è l'ultimo tablet Android di casa Google. La linea Nexus si è sempre contraddistinta per due cose:
 
 1. Il prezzo contenuto
@@ -23,7 +25,11 @@ Il competitor del Nexus è ovviamente l'**iPad**: le dimensioni e il prezzo sono
 
 ###Design
 
+![Un bel tablet](/images/nexus/bello.jpg "Bello")
+
 Il Nexus 9 è *molto bello*. Il tablet, prodotto da HTC per Google, denota quella cura che solo HTC riesce a raggiungere nel mondo Android. Il retro di plastica bianca opaca è molto piacevole al tatto e tutto attorno corre un bordo di alluminio spazzolato. Unica pecca la fotocamera estrusa: considerato che parliamo di un tablet (che quindi non ha dimensioni contenutissime) mi sarei aspettato una fotocamera aderente al corpo del tablet.
+
+![camera](/images/nexus/camera.jpg "camera")
 
 Il peso è sorprendetemente contenuto e usandolo in treno per un'ora non ho mai avuto la voglia di posarlo o di avere una superficie di lavoro più comoda. Unica pecca: avrei voluto la tastiera che si sdoppia ai lati come su iPad perchè digitare su uno schermo così grande non è pratico, purtroppo Android non ha questa funzione, magari si può installare una tastiera custom ma sarebbe stato bello averla di sistema.
 
@@ -34,6 +40,8 @@ Il peso è sorprendetemente contenuto e usandolo in treno per un'ora non ho mai 
 ###Display
 
 Lo schermo del Nexus 9 è bello. Display retina, nitidissimo, è una gioia per gli occhi. Purtroppo però *la luce non è uniforme ai lati* e lo schermo che non ti dà quella sensazione di pixel *incollati al vetro* a cui ormai siamo abituati sono deludenti. Lo schermo è qualche millimetro sotto al vetro e l'effetto è un po' triste. Sono piccoli dettagli, ma su un tablet da 400€? Mi dispiace ma non posso transigere.
+
+![schermo](/images/nexus/schermo.jpg "schermo")
 
 ###Camera
 
@@ -77,3 +85,6 @@ La durata della batteria è in linea con i tablet sul mercato.
 ##Conclusioni
 
 Il Nexus 9 è il miglior tablet Android sul mercato. Sei hai bisogno di un tablet Android si tratta dello stato dell'arte. Ma confrontato con iPad purtroppo ci si scontra contro la realtà dei fatti: questo tablet non vale 400€ e evidenzia che il rapporto qualità/prezzo di Apple sui tablet è ancora il migliore.
+
+![photogallery 1](/images/nexus/1.jpg "Foto 1")
+![photogallery 2](/images/nexus/2.jpg "Foto 2")
