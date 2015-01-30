@@ -8,15 +8,15 @@ $blue: #4183C4;
 
 // Grays
 $black: #000;
-$darkerGray: #222;
+$darkerGray: rgba(0, 0, 0, 0.8);;
 $darkGray: #333;
 $gray: #666;
-$lightGray: #eee;
+$lightGray: #fafafa;
 $white: #fff;
 
 // Font stacks
-$helvetica: "adobe-text-pro",sans-serif;
-$helveticaNeue: "adobe-text-pro",sans-serif;
+$helvetica: "freight-text-pro",sans-serif;
+$helveticaNeue: "freight-text-pro",sans-serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
