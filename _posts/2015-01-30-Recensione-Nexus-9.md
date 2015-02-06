@@ -72,7 +72,7 @@ Punto a favore per il Nexus 9: finalmente le casse sono frontali e non sul retro
 
 ###Performance
 
-Ho letto di molte recensioni che lamentavano performance scadenti, probabilmente causate dal software. A qualche mese di distanza dal rilascio, questi problemi sembrano risolti e non ho mai percepito lentezza usandolo. Considerato che è una macchina con un processore enorme, mi sarei stupito del contrario. Ho provato a testare un po' le prestazioni al limite con il videogioco "Batman: Arkham Origins" e mi è sembrato che il tablet rispondesse bene.
+Ho letto di molte recensioni che lamentavano performance scadenti, probabilmente causate dal software. A qualche mese di distanza dal rilascio, questi problemi sembrano abbastanza risolti anche se saltuariamente ci sono dei momenti in cui il tablet è un po' scattoso. Considerato che è una macchina con un processore enorme, sono problemi difficili da mandare giù a cuor leggero. 
 
 ###Software e app 
 
