@@ -12,8 +12,6 @@ excerpt: L'ultimo tablet di Google è un avversario temibile per iPad? Quali pro
 
 Tempo permettendo, terrò un diario della mia esperienza nerd con tutti gli aggeggi che mi passano tra le mani. Iniziamo oggi con il **Nexus 9**.
 
-##Nexus 9: la recensione. Ottimi pregi ma anche problemi
-
 ![Cover]({{ site.baseurl }}/images/nexus/cover.jpg "Cover")
 
 Il Nexus 9 è l'ultimo tablet Android di casa Google. La linea Nexus si è sempre contraddistinta per due cose:
