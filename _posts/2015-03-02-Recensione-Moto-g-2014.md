@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Recensione Moto G 2014&#58; un telefono onesto ad un prezzo conveniente
-image: /images/nexus/cover.jpg
+image: /images/moto-g/cover.jpg
 author: Giovanni Frigo
 excerpt: MotoG&#58; un telefono onesto ad un prezzo conveniente
 ---
 
-Un telefono Android *di qualità* a meno di duecento euro? Motorola si è lanciata in questa scommessa, con un risultato eccezionale. È riuscita a costruire un telefono con un prezzo veramente democratico mantenendo una buona qualità sia hardware che software.
+Un telefono Android *di qualità* a meno di duecento euro? Motorola si è lanciata in questa scommessa, con un risultato eccezionale. È riuscita a produrre un telefono ad un prezzo veramente democratico mantenendo una buona qualità sia hardware che software.
 
 Ma vediamo nel dettaglio cosa rende questo telefono il miglior *budget phone* sul mercato.
 
@@ -31,14 +31,18 @@ La **plastica morbida** della scocca posteriore del Moto G è **piacevole al tat
 
 I tre bottoni fisici (wake button, volume up, volume down) si trovano sul lato destro, mentre troviamo allieneati al centro il jack per le cuffie (lato superiore), la fotocamera posteriore, il flash e, ovviamente, l'attacco micro USB nella parte inferiore.
 
+![Moto G di profilo]({{ site.baseurl }}/images/moto-g/profilo.jpg "Moto G di profilo")
+
 Gli speaker frontali mi **piacciono molto**: che sia per guardare un video o per fare una chiamata in vivavoce, finalmente il suono arriva dalla direzione giusta.
 Ho purtroppo la sensazione che lo speaker superiore (quello appoggiato all'orecchio quando si telefona) cominci già a cedere, facendo un suono un po' gracchiante. *Qualità costruttiva bocciata.*
+
+![Moto G di fronte]({{ site.baseurl }}/images/moto-g/frontale.jpg "Moto G di fronte")
 
 ###Schermo
 Lo **schermo IPS da 5"** del Moto G ha una risoluzione di 720x1280, colori vivaci ed un'ottima densità di pixel (291ppi). In generale regge bene il confronto con smartphone di fascia alta, distanziandosi di poco *(almeno sulla carta)* dallo schermo dell'iPhone 6 (750x1334 pixel a 320ppi).
 
 ![Confronto schermo con iPhone 6]({{ site.baseurl }}/images/moto-g/confronto-schermo.jpg "Confronto schermo con iPhone 6")
-*Il confronto con gli altri telefoni di casa B3Lab.*
+*Il confronto con gli altri telefoni di casa B3Lab: a sinistra l'iPhone 5S e a destra l'iPhone 6. Non se la gioca ad armi pari ma ne esce a testa alta.*
 
 L'assenza di un bottone fisico nella parte frontale rende più scomodo lo sblocco dello schermo quando il telefono si trova appoggiato ad un tavolo. La soluzione sarebbe potuta essere il tap-to-wake, quella comoda funzione che con due colpetti allo schermo risveglia il dispositivo dallo standby, e che è comune sugli smartphone e tablet Android più recenti (come il [Nexus 9](http://b3lab.it/blog/Recensione-Nexus-9/)), ma per il prezzo a cui viene venduto è una mancanza che posso tollerare.
 

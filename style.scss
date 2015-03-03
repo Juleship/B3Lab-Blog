@@ -50,10 +50,9 @@ h2, h3, h4, h5, h6 {
   line-height: 1.7;
 }
 
-
 h1 {
   margin-top: .5em;
-  font-size: 60px;
+  font-size: 45px;
   line-height: 1.2;
   a {
     color: inherit;
@@ -120,6 +119,10 @@ strong, b {
 
 img {
   max-width: 100%;
+}
+
+.text-center {
+  text-align: center;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -306,6 +309,8 @@ footer {
   position: relative;
   z-index: 1;
   display: block;
+  overflow: hidden;
+  height: 250px;
   &:hover {
     .previous-overlay {
       transition: .2s;
