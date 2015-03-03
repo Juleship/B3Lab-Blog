@@ -17,9 +17,9 @@ Presentato nel Settembre 2014, il nuovo **Moto G 2014** si ripropone in una vest
 
 > Un hardware di tutto rispetto per il prezzo proposto
 
-Una prima nota negativa: il telefono esiste solamente nella variante con **8 GB** di memoria interna, espandibile con scheda SD fino ad un massimo di ulteriori 64 GB. Poca memoria per un telefono progettato e venduto nel 2014, e mi chiedo perché la variante a 16 GB (nonostante sia _comunque_ poca memoria) venga venduta solamente in India.
+Una prima nota negativa: il telefono esiste solamente nella variante con **8 GB** di memoria interna, espandibile con scheda SD fino ad un massimo di ulteriori 64 GB. Poco spazio per un telefono progettato e venduto nel 2014, e mi chiedo perché la variante a 16 GB (nonostante siano *comunque* pochi) venga venduta solamente in India.
 
-Avrei scambiato volentieri il supporto dual sim per un po' di memoria in più, o per il 4G, ma questa è un'altra storia.
+Avrei scambiato volentieri il supporto dual sim per un po' di capienza in più, o per il 4G, ma questa è un'altra storia.
 
 ![Un design solido]({{ site.baseurl }}/images/moto-g/posato.jpg "Un design solido")
 
@@ -29,7 +29,7 @@ La **plastica morbida** della scocca posteriore del Moto G è **piacevole al tat
 
 > Plastica morbida al tatto e antiscivolo, una bella sensazione
 
-I tre bottoni fisici (wake button, volume up, volume down) si trovano sul lato destro, mentre troviamo allieneati al centro il jack per le cuffie (lato superiore), la fotocamera posteriore, il flash e, ovviamente, l'attacco micro USB nella parte inferiore.
+I tre bottoni fisici (wake button, volume up, volume down) si trovano sul lato destro, mentre troviamo allineati al centro il jack per le cuffie (lato superiore), la fotocamera posteriore, il flash e, ovviamente, l'attacco micro USB nella parte inferiore.
 
 ![Moto G di profilo]({{ site.baseurl }}/images/moto-g/profilo.jpg "Moto G di profilo")
 
