@@ -102,7 +102,7 @@ L'**ecosistema** Apple per le app su tablet è il punto sul quale l'iPad stacca 
 ![App sketches]({{ site.baseurl }}/images/iPad-Air-2/disegno.jpg "app Sketches")
 *L'app Sketches al massimo delle sue funzionalità.*
 
-Infine, so che la scusa "*lo uso per lavoro*" non ha confinto nessuno di voi: ci sono anche dei **giochi** molto notevoli su tablet, come ad esempio Superbrothers: Sword & Sworcery EP o Monument Valley (che è un piccolo capolavoro che vi raccomando di provare).
+Infine, so che la scusa "*lo uso per lavoro*" non ha convinto nessuno di voi: ci sono anche dei **giochi** molto notevoli su tablet, come ad esempio Superbrothers: Sword & Sworcery EP o Monument Valley (che è un piccolo capolavoro che vi raccomando di provare).
 
 Come se non bastasse iOS 8 è **perfettamente integrato tra i vari dispositivi** della casa di Cupertino. Grazie a Continuity l'iPad è in grado di ricevere e **inviare telefonate e sms attraverso l'iPhone** (tutto questo senza bisogno di alcuna configurazione). Un altro esempio: se sto visualizzando una pagina su Safari dall'iPhone il tablet già da bloccato se ne accorge e mi propone di continuare la lettura sullo schermo più grande. Questi due sono esempi per farvi capire di cosa parlo, ma Continuity funziona in moltissimi altri casi d'uso. 
 
