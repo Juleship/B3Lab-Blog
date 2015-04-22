@@ -59,6 +59,8 @@ Alla sera, sul divano, è lo strumento perfetto per leggere gli articoli di The 
 
 La fotocamera, per essere un tablet, è **notevole**. Partendo dal presupposto che a me non piace fare le foto con i tablet, perché non mi sembra lo strumento adatto, devo ammettere che la fotocamera è piuttosto efficace. Al suo interno poi contiene già tutte quelle feature utili di Apple come le foto panoramiche (con le quali però si rischia di oscurare il panorama ai vicini viste le dimensioni del device) e i video in slow motion a 120fps.
 
+*Scattate con iPad:*
+
 ![Ritratto di Nas]({{ site.baseurl }}/images/iPad-Air-2/IMG_0032.jpg "Ritratto di Nas")
 *Nas, che come potete notare ha i capelli di un nuovo colore. #nofilter*
 
