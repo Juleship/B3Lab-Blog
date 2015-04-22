@@ -4,6 +4,7 @@ title: Recensione Nexus 9, pregi e problemi
 image: /images/nexus/cover.jpg
 author: Giulio Michelon
 excerpt: L'ultimo tablet di Google è un avversario temibile per iPad? Quali problemi presenta?
+
 ---
 
 *Premessa*: Lavorando in B3Lab, mi imbatto spesso in device molto vari e interessanti. Ho deciso, quindi, di iniziare a recensirli per rispondere alla domanda esistenziale che mi fanno sempre gli amici: 
