@@ -14,7 +14,7 @@ Non ho mai avuto un iPad o un tablet personale (a parte un breve intervallo nel 
 Capitemi: *sono un nerd vecchio stile*. Sono uno di quelli a cui piace avere i tasti fisici che fanno *clic clic clic*, uno schermo grande, un sistema operativo con cui fare di tutto in qualsiasi momento. A che può servire un iPad a uno come me?
 
 ![Inception]({{ site.baseurl }}/images/iPad-Air-2/1.jpg "Inception") 
-*Una foto della realizzazione della recensione nella recensione. Recenteption.*
+*Una foto della realizzazione della recensione nella recensione. Recenception.*
 
 
 Un po' per necessità in B3Lab dove stiamo sviluppando un'app per iPad (un'app per gelatieri: [ICY](http://b3lab.it/icy "ICY")) e un po' per curiosità ho deciso di comprare l'ultimo iPad e dargli una possibilità. 
