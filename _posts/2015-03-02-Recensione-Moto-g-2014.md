@@ -77,7 +77,7 @@ Il Moto G è stato appena aggiornato ad **Android Lollipop** (5.0.2), *l'ultimis
 
 Il vero punto di forza di questo device è il **prezzo** estremamente contenuto: per meno di 200 euro ci si può portare a casa un bel giocattolino con caratteristiche largamente superiori ad ogni altro smartphone Android nella stessa fascia di prezzo. Azzarderei a dire che è il **miglior smartphone per rapporto qualità/prezzo** attualmente disponibile sul mercato.
 
-> "Il miglior martphone per rapporto qualità/prezzo"  
+> "Il miglior smartphone per rapporto qualità/prezzo"  
 > (Giovanni Frigo, che poi sarei io)
 
 Personalmente considero questi due punti molto importanti, e sufficienti a coprire i piccoli difetti che si possono trovare in questo smartphone, rendendolo al momento la mia **scelta ideale di smartphone Android** che:
